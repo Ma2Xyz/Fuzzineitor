@@ -4,3 +4,4 @@ mapa
 test.py
 diccionarios/test
 pruebas.py
+__pycache__/**
